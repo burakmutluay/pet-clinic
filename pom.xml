@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.burak</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0-SNAPSHOT</version>
+    <version>0.0</version>
     <name>pet-clinic</name>
     <description>Pet clinic application using Spring Framework</description>
 
@@ -45,6 +45,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/burakmutluay/pet-clinic.git</developerConnection>
-    </scm>
+      <tag>pet-clinic-0.0</tag>
+  </scm>
 
 </project>
