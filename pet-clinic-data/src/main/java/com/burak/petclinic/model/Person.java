@@ -1,6 +1,6 @@
 package com.burak.petclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
 
 
 
